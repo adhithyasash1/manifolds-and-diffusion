@@ -1,6 +1,6 @@
 # Manifold-Diffusion
 
-This project, is about building AI that understands the "hidden shape" of data rather than just seeing it as a flat collection of pixels.
+This project is about building AI that understands the "hidden shape" of data rather than just seeing it as a flat collection of pixels.
 
 what we are trying to do:
 
